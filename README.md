@@ -1,1 +1,1 @@
-# -DAT102-Obligatorisk-Oppgave-2
+# DAT102-Obligatorisk-Oppgave-2
